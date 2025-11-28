@@ -1,7 +1,5 @@
 <h1 align="center">Koshevoy Konstantin</h1>
 
----
-
 ### 🚀 About me  
 🏛️ Astana IT University, computer science major <br>
 💡 Interested in ML\Dl, AI and backend
@@ -20,7 +18,7 @@
 
 ---
 
-### 🧠 ML Projects  
+### 🧠 Projects  
 ***
 
 ---
