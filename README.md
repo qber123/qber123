@@ -18,11 +18,6 @@
 
 ---
 
-### 🧠 Projects  
-***
-
----
-
 ### 📫 Contacts  
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?&logo=telegram&logoColor=white)](https://t.me/Fjfbdz)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kosevojk4@gmail.com)
