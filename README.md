@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) · 
+`![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)` · 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) · 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) · 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) · 
