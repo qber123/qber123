@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТвойНик&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qber123&layout=compact)
+
